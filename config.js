@@ -1,12 +1,12 @@
 module.exports = {
     // 🔹 Bot Temel Ayarları
-    Token: "MTM4ODA1ODM3MDEzNjg3MTA3Mw.GglkL-.vSZKfcH1iKoWuHv2W0bxyKsvv9V3oSdFUfj_OU",
+    Token: "",
     Prefix: ".",
     
     // 🔹 Bot Sahipleri ve Geliştiriciler  
-    Developer: "1384829536746864725",
-    BotOwners: ["1384829536746864725"],
-    Developers: ["1384829536746864725"],
+    Developer: "",
+    BotOwners: [""],
+    Developers: [""],
     
     // 🔹 Bot Durumu ve Bilgileri
     Durum: "Xedevil Tarafından Yapıldı",
